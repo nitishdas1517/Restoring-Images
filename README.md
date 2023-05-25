@@ -1,2 +1,2 @@
 # Restoring-Images
-EE610 Assignment-2
+EE610 Image Processing; Assignment-2
